@@ -23,5 +23,7 @@ $autoload['language'] = array();
 
 $autoload['model'] = array(
 	'api_key_model'		=> 'api_keys',
-	'user_model'		=> 'users'
+	'user_model'		=> 'users',
+	'group_model'		=> 'groups',
+	'admin_group_model'	=> 'admin_groups'
 );
